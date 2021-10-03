@@ -9,5 +9,8 @@
         <module name="CucumberPOMFramework" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CucumberPOMFramework" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
